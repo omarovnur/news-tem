@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["contact"],{b8fa:function(n,t,a){"use strict";a.r(t);var c=function(){var n=this,t=n.$createElement,a=n._self._c||t;return a("div",{staticClass:"contact"},[a("my-nav"),a("h1",[n._v("This is an contact page")])],1)},e=[],s=a("f4dd"),o={name:"Contact",components:{myNav:s["a"]}},i=o,l=a("2877"),u=Object(l["a"])(i,c,e,!1,null,null,null);t["default"]=u.exports}}]);
+//# sourceMappingURL=contact.675d4080.js.map
